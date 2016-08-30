@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+I want to learn more inject me with the code knowledge
+
+yass
